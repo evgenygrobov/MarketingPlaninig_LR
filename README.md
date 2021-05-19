@@ -85,7 +85,8 @@ This reveals that NewsPaper does not effect Sales, but in single regression it d
 
 Lets see correaltion between predictors:
 
-[!](https://github.com/evgenygrobov/MarketingPlaninig_LR/blob/main/pics/Heatmap.png)
+![](https://github.com/evgenygrobov/MarketingPlaninig_LR/blob/main/pics/Heatmap.png)
+
 
 The correlation between Radio and Newspaper is 0.35, it suggest that Newspaper is surrogate of the Radio advertising, the newspaper gets credits on effect of radio on sales.
 
