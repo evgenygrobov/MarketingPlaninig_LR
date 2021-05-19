@@ -100,11 +100,11 @@ Lets evaluate model perfomance:
 
 This prediction based on TV+Radio+NewsPaper will be still of by 1690 units.
 
-Lets see at plot
+Lets see at plot using TV and Radio as predictors
 
-[!](pics/Regr_Sales~Radio+TV.png)
+![](https://github.com/evgenygrobov/MarketingPlaninig_LR/blob/main/pics/Regr_Sales%7ERadio%2BTV.png)
 
-It suggest a synergy interaction effect between advertising media.
+It suggests a synergy interaction effect between advertising media.
 
 ## TV+Radio +TV*Radio
 
