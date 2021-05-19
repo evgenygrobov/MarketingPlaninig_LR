@@ -10,7 +10,7 @@ A few important questions this project is seeking to address:
    
 Lets see at pairplot that shows a relationship between advertising budget and sales.
 
-[!](pics/pairplot.png)
+![](https://github.com/evgenygrobov/MarketingPlaninig_LR/blob/main/pics/pairplot.png)
 
 We should conlcude that there is strong positive association between TV and Sales. 
 
