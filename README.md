@@ -115,6 +115,6 @@ It suggests a synergy interaction effect between advertising media.
 |   Radio   | 0.0289 |   0.002   |  3.241 | 0.001 | 0.011 | 0.046 |
 |  TV*Radio | 0.0011 |  5.24e-05 | 20.727 | 0.001 | 0.001 | 0.001 |
 
-R^=0.968 that is improves model perfomance. 
+R^2=0.968 that is an improvement in model perfomance. 
 
-Sales=6.7502 + $1000* (TV) + $1000*(Radio) + $1000*(TV*Radio)
+Sales=6.7502 + X * 0.0191 + X * 0.0289 + X * 0.0011
