@@ -31,13 +31,10 @@ Therefore we can conclude that with absence of any advertising, sales will on av
 
 I also can perform Hypothesis Test on coefficients. Lets set null Hypothesis and alternative Hypothesis:
 
-$$
-\begin{array}{c}
-H_0:There\ is\  no\  realtionship\ between\ TV\ and\  Sales \\
+*Null Hypothesis is there no relationship between TV and Sales*
 
-H_1:There\ is\  some\  realtionship\ between\ TV\ and\  Sales\\\\
-\end{array}
-$$
+*Alternative Hypothesis is there some relationship between TV and Sales*
+
 
 So, since TV coefficient is not equal 0, and small p-value indicates that it is unlikely to observe substantianal asocciation between predictor and target just by chance, I can reject null Hypothesis.
 
