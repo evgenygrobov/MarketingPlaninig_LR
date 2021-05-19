@@ -18,7 +18,7 @@ Lets start with Simple Linear Regression
 
 Using TV expedenture as a predictor
 
-[!](pics/TV_regr_Sales.png)
+![](https://github.com/evgenygrobov/MarketingPlaninig_LR/blob/main/pics/TV_regr_Sales.png)
 
 ## TV advertising:
 
